@@ -11,7 +11,7 @@
 		<div class="sidebar-content">
 			
 			<div class="sidebar-top group">
-				<p><?php _e('Follow:','hueman'); ?></p>
+				<p><?php _e('BLOG','hueman'); ?></p>
 				<?php alx_social_links() ; ?>
 			</div>
 			
