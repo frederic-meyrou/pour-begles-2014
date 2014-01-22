@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/pour-begles-2014/wp-content/plugins/google-xml-sitemaps-v3-for-qtranslate/sitemap.xsl"?><!-- generator="wordpress/3.8" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.3.1" -->
-<!-- generated-on="21 January 2014 23 h 14 min" -->
+<!-- generated-on="22 January 2014 17 h 24 min" -->
 <!-- Debug: Total comment count: 0 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://localhost/pour-begles-2014/</loc>
@@ -9,6 +9,32 @@
 		<priority>1.0</priority>
 	</url>
 <!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 193: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pour-begles-2014/samedi-8-fevrier-de-11h-a-13h-apero-de-proximte/</loc>
+		<lastmod>2014-01-22T16:05:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost/pour-begles-2014/le-programme/</loc>
+		<lastmod>2014-01-22T16:04:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/pour-begles-2014/lequipe/</loc>
+		<lastmod>2014-01-22T15:47:41+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 191: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://localhost/pour-begles-2014/vendredi-7-fevrier-a-19h30-repas-de-liste/</loc>
+		<lastmod>2014-01-22T07:31:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
 	<url>
 		<loc>http://localhost/pour-begles-2014/agenda/</loc>
 		<lastmod>2014-01-21T23:13:22+00:00</lastmod>
@@ -20,20 +46,6 @@
 		<lastmod>2014-01-21T23:03:22+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
-	</url>
-<!-- Debug: Priority report of postID 193: Comments: 0 of 0 = 0 points -->
-	<url>
-		<loc>http://localhost/pour-begles-2014/samedi-8-fevrier-de-11h-a-13h-apero-de-proximte/</loc>
-		<lastmod>2014-01-21T22:54:35+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
-	</url>
-<!-- Debug: Priority report of postID 191: Comments: 0 of 0 = 0 points -->
-	<url>
-		<loc>http://localhost/pour-begles-2014/vendredi-7-fevrier-a-19h30-repas-de-liste/</loc>
-		<lastmod>2014-01-21T22:51:38+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
 	</url>
 <!-- Debug: Priority report of postID 188: Comments: 0 of 0 = 0 points -->
 	<url>
@@ -51,12 +63,6 @@
 	<url>
 		<loc>http://localhost/pour-begles-2014/votez/</loc>
 		<lastmod>2014-01-21T22:39:38+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost/pour-begles-2014/le-programme/</loc>
-		<lastmod>2014-01-21T22:39:25+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -101,12 +107,6 @@
 	<url>
 		<loc>http://localhost/pour-begles-2014/credits/</loc>
 		<lastmod>2014-01-21T22:00:34+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost/pour-begles-2014/lequipe/</loc>
-		<lastmod>2014-01-21T21:37:54+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
