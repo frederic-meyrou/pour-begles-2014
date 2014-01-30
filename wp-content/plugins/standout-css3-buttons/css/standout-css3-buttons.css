@@ -1,0 +1,96 @@
+/* Gradient Social Media Buttons 
+------------------------------------------------------------ */
+/* rules for all buttons */
+a.button-dribbble,a.button-facebook,a.button-googleplus,a.button-linkedin,a.button-pinterest,a.button-rss,a.button-tumblr,a.button-twitter,a.button-turquoise,a.button-emerald,a.button-somekindofblue,a.button-amethyst,a.button-bluegray,a.button-tangerine,a.button-fall,a.button-adobe,a.button-lightgray,a.button-dull,a.button-fancypurple,a.button-dullpurple,a.button-crispblue,a.button-braised,a.button-midnight,a.button-salmon,a.button-neongreen,a.button-brown {-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;box-shadow: 0 1px 1px #999;color: #fff;display: inline-block;font-size: 16px;margin: 0 20px 20px 0;padding: 10px 15px;text-align: center;text-decoration:none}
+
+/* black text for these buttons */
+a.button-lightgray,a.button-neongreen {color:#000}
+
+/* specific rules for each button */
+a.button-dribbble {background-color: #c93764;background: -moz-linear-gradient(top, #ea4c89, #c93764);background: -ms-linear-gradient(top, #ea4c89, #c93764);background: -webkit-linear-gradient(top, #ea4c89, #c93764);background: -khtml-linear-gradient(top, #ea4c89, #c93764);background: linear-gradient(top, #ea4c89, #c93764);border: 1px solid #c93764;text-shadow: 0 -1px -1px #9d2849}
+a.button-dribbble:hover {background: -moz-linear-gradient(top, #c93764, #ea4c89);background: -ms-linear-gradient(top, #c93764, #ea4c89);background: -webkit-linear-gradient(top, #c93764, #ea4c89);background: -khtml-linear-gradient(top, #c93764, #ea4c89);background: linear-gradient(top, #c93764, #ea4c89)}
+
+a.button-facebook {background-color: #2b4170;background: -moz-linear-gradient(top, #3b5998, #2b4170);background: -ms-linear-gradient(top, #3b5998, #2b4170);background: -webkit-linear-gradient(top, #3b5998, #2b4170);background: -khtml-linear-gradient(top, #3b5998, #2b4170);background: linear-gradient(top, #3b5998, #2b4170);border: 1px solid #2b4170;text-shadow: 0 -1px -1px #1f2f52}
+a.button-facebook:hover {background: -moz-linear-gradient(top, #2b4170, #3b5998);background: -ms-linear-gradient(top, #2b4170, #3b5998);background: -webkit-linear-gradient(top, #2b4170, #3b5998);background: -khtml-linear-gradient(top, #2b4170, #3b5998);background: linear-gradient(top, #2b4170, #3b5998)}
+
+a.button-googleplus {background-color: #c33219;background: -moz-linear-gradient(top, #e64522, #c33219);background: -ms-linear-gradient(top, #e64522, #c33219);background: -webkit-linear-gradient(top, #e64522, #c33219);background: -khtml-linear-gradient(top, #e64522, #c33219);background: linear-gradient(top, #e64522, #c33219);border: 1px solid #c33219;text-shadow: 0 -1px -1px #972412}
+a.button-googleplus:hover {background: -moz-linear-gradient(top, #c33219, #e64522);background: -ms-linear-gradient(top, #c33219, #e64522);background: -webkit-linear-gradient(top, #c33219, #e64522);background: -khtml-linear-gradient(top, #c33219, #e64522);background: linear-gradient(top, #c33219, #e64522)}
+
+a.button-linkedin {background-color: #0073b2;background: -moz-linear-gradient(top, #009cda, #0073b2);background: -ms-linear-gradient(top, #009cda, #0073b2);background: -webkit-linear-gradient(top, #009cda, #0073b2);background: -khtml-linear-gradient(top, #009cda, #0073b2);background: linear-gradient(top, #009cda, #0073b2);border: 1px solid #0073b2;text-shadow: 0 -1px -1px #005486}
+a.button-linkedin:hover {background: -moz-linear-gradient(top, #0073b2, #009cda);background: -ms-linear-gradient(top, #0073b2, #009cda);background: -webkit-linear-gradient(top, #0073b2, #009cda);background: -khtml-linear-gradient(top, #0073b2, #009cda);background: linear-gradient(top, #0073b2, #009cda)}
+
+a.button-pinterest {background-color: #a0171c;background: -moz-linear-gradient(top, #cb2027, #a0171c);background: -ms-linear-gradient(top, #cb2027, #a0171c);background: -webkit-linear-gradient(top, #cb2027, #a0171c);background: linear-gradient(top, #cb2027, #a0171c);border: 1px solid #a0171c;text-shadow: 0 -1px -1px #761114}
+a.button-pinterest:hover {background: -moz-linear-gradient(top, #a0171c, #cb2027);background: -ms-linear-gradient(top, #a0171c, #cb2027);background: -webkit-linear-gradient(top, #a0171c, #cb2027);background: -khtml-linear-gradient(top, #a0171c, #cb2027);background: linear-gradient(top, #a0171c, #cb2027)}
+
+a.button-rss {background-color: #e2733d; background: -moz-linear-gradient(top, #e88845, #e2733d);background: -ms-linear-gradient(top, #e88845, #e2733d);background: -webkit-linear-gradient(top, #e88845, #e2733d);background: -khtml-linear-gradient(top, #e88845, #e2733d);background: linear-gradient(top, #e88845, #e2733d);border: 1px solid #e2733d;text-shadow: 0 -1px -1px #9a4824}
+a.button-rss:hover {background: -moz-linear-gradient(top, #e2733d, #e88845);background: -ms-linear-gradient(top, #e2733d, #e88845);background: -webkit-linear-gradient(top, #e2733d, #e88845);background: -khtml-linear-gradient(top, #e2733d, #e88845);background: linear-gradient(top, #e2733d, #e88845)}
+
+a.button-tumblr {background-color: #2c4762;background: -moz-linear-gradient(top, #3a5876, #2c4762);background: -ms-linear-gradient(top, #3a5876, #2c4762);background: -webkit-linear-gradient(top, #3a5876, #2c4762);background: -khtml-linear-gradient(top, #3a5876, #2c4762);background: linear-gradient(top, #3a5876, #2c4762);border: 1px solid #2c4762;text-shadow: 0 -1px -1px #203448}
+a.button-tumblr:hover {background: -moz-linear-gradient(top, #2c4762, #3a5876);background: -ms-linear-gradient(top, #2c4762, #3a5876);background: -webkit-linear-gradient(top, #2c4762, #3a5876);background: -khtml-linear-gradient(top, #2c4762, #3a5876);background: linear-gradient(top, #2c4762, #3a5876)}
+
+a.button-twitter {background-color: #0081ce;background: -moz-linear-gradient(top, #00aced, #0081ce);background: -ms-linear-gradient(top, #00aced, #0081ce);background: -webkit-linear-gradient(top, #00aced, #0081ce);background: -khtml-linear-gradient(top, #00aced, #0081ce);background: linear-gradient(top, #00aced, #0081ce);border: 1px solid #0081ce;text-shadow: 0 -1px -1px #005ea3;}
+a.button-twitter:hover {background: -moz-linear-gradient(top, #0081ce, #00aced);background: -ms-linear-gradient(top, #0081ce, #00aced);background: -webkit-linear-gradient(top, #0081ce, #00aced);background: -khtml-linear-gradient(top, #0081ce, #00aced);background: linear-gradient(top, #0081ce, #00aced)}
+
+a.button-turquoise {background-color: #16A085;background: -moz-linear-gradient(top, #1ABC9C, #16A085);background: -ms-linear-gradient(top, #1ABC9C, #16A085);background: -webkit-linear-gradient(top, #1ABC9C, #16A085);background: -khtml-linear-gradient(top, #1ABC9C, #16A085);background: linear-gradient(top, #1ABC9C, #16A085);border: 1px solid #16A085;text-shadow: 0 -1px -1px #16A085}
+a.button-turquoise:hover {background: -moz-linear-gradient(top, #16A085, #1ABC9C);background: -ms-linear-gradient(top, #16A085, #1ABC9C);background: -webkit-linear-gradient(top, #16A085, #1ABC9C);background: -khtml-linear-gradient(top, #16A085, #1ABC9C);background: linear-gradient(top, #16A085, #1ABC9C)}
+
+a.button-emerald {background-color: #27AE60;background: -moz-linear-gradient(top, #2ECC71, #27AE60);background: -ms-linear-gradient(top, #2ECC71, #27AE60);background: -webkit-linear-gradient(top, #2ECC71, #27AE60);background: -khtml-linear-gradient(top, #2ECC71, #27AE60);background: linear-gradient(top, #2ECC71, #27AE60);border: 1px solid #27AE60;text-shadow: 0 -1px -1px #27AE60;}
+a.button-emerald:hover {background: -moz-linear-gradient(top, #27AE60, #2ECC71);background: -ms-linear-gradient(top, #27AE60, #2ECC71);background: -webkit-linear-gradient(top, #27AE60, #2ECC71);background: -khtml-linear-gradient(top, #27AE60, #2ECC71);background: linear-gradient(top, #27AE60, #2ECC71)}
+
+a.button-somekindofblue {background-color: #2980B9;background: -moz-linear-gradient(top, #3498DB, #2980B9);background: -ms-linear-gradient(top, #3498DB, #2980B9);background: -webkit-linear-gradient(top, #3498DB, #2980B9);background: -khtml-linear-gradient(top, #3498DB, #2980B9);background: linear-gradient(top, #3498DB, #2980B9);border: 1px solid #2980B9;text-shadow: 0 -1px -1px #2980B9}
+a.button-somekindofblue:hover {background: -moz-linear-gradient(top, #2980B9, #3498DB);background: -ms-linear-gradient(top, #2980B9, #3498DB);background: -webkit-linear-gradient(top, #2980B9, #3498DB);background: -khtml-linear-gradient(top, #2980B9, #3498DB);background: linear-gradient(top, #2980B9, #3498DB)}
+
+a.button-amethyst {background-color: #8E44AD;background: -moz-linear-gradient(top, #9B59B6, #8E44AD);background: -ms-linear-gradient(top, #9B59B6, #8E44AD);background: -webkit-linear-gradient(top, #9B59B6, #8E44AD);background: -khtml-linear-gradient(top, #9B59B6, #8E44AD);background: linear-gradient(top, #9B59B6, #8E44AD);border: 1px solid #8E44AD;text-shadow: 0 -1px -1px #8E44AD}
+a.button-amethyst:hover {background: -moz-linear-gradient(top, #8E44AD, #9B59B6);background: -ms-linear-gradient(top, #8E44AD, #9B59B6);background: -webkit-linear-gradient(top, #8E44AD, #9B59B6);background: -khtml-linear-gradient(top, #8E44AD, #9B59B6);background: linear-gradient(top, #8E44AD, #9B59B6)}
+
+a.button-bluegray {background-color: #2C3E50;background: -moz-linear-gradient(top, #34495E, #2C3E50);background: -ms-linear-gradient(top, #34495E, #2C3E50);background: -webkit-linear-gradient(top, #34495E, #2C3E50);background: -khtml-linear-gradient(top, #34495E, #2C3E50);background: linear-gradient(top, #34495E, #2C3E50);border: 1px solid #2C3E50;text-shadow: 0 -1px -1px #2C3E50}
+a.button-bluegray:hover {background: -moz-linear-gradient(top, #2C3E50, #34495E);background: -ms-linear-gradient(top, #2C3E50, #34495E);background: -webkit-linear-gradient(top, #2C3E50, #34495E);background: -khtml-linear-gradient(top, #2C3E50, #34495E);background: linear-gradient(top, #2C3E50, #34495E)}
+
+a.button-tangerine {background-color: #F39C12;background: -moz-linear-gradient(top, #F1C40F, #F39C12);background: -ms-linear-gradient(top, #F1C40F, #F39C12);background: -webkit-linear-gradient(top, #F1C40F, #F39C12);background: -khtml-linear-gradient(top, #F1C40F, #F39C12);background: linear-gradient(top, #F1C40F, #F39C12);border: 1px solid #F39C12;text-shadow: 0 -1px -1px #F39C12}
+a.button-tangerine:hover {background: -moz-linear-gradient(top, #F39C12, #F1C40F);background: -ms-linear-gradient(top, #F39C12, #F1C40F);background: -webkit-linear-gradient(top, #F39C12, #F1C40F);background: -khtml-linear-gradient(top, #F39C12, #F1C40F);background: linear-gradient(top, #F39C12, #F1C40F)}
+
+a.button-fall {background-color: #D35400;background: -moz-linear-gradient(top, #E67E22, #D35400);background: -ms-linear-gradient(top, #E67E22, #D35400);background: -webkit-linear-gradient(top, #E67E22, #D35400);background: -khtml-linear-gradient(top, #E67E22, #D35400);background: linear-gradient(top, #E67E22, #D35400);border: 1px solid #D35400;
+text-shadow: 0 -1px -1px #D35400}
+a.button-fall:hover {background: -moz-linear-gradient(top, #D35400, #E67E22);background: -ms-linear-gradient(top, #D35400, #E67E22);background: -webkit-linear-gradient(top, #D35400, #E67E22);
+background: -khtml-linear-gradient(top, #D35400, #E67E22);background: linear-gradient(top, #D35400, #E67E22)}
+
+a.button-adobe {background-color: #C0392B;background: -moz-linear-gradient(top, #E74C3C, #C0392B);background: -ms-linear-gradient(top, #E74C3C, #C0392B);background: -webkit-linear-gradient(top, #E74C3C, #C0392B);background: -khtml-linear-gradient(top, #E74C3C, #C0392B);background: linear-gradient(top, #E74C3C, #C0392B);border: 1px solid #C0392B;text-shadow: 0 -1px -1px #C0392B}
+a.button-adobe:hover {background: -moz-linear-gradient(top, #C0392B, #E74C3C);background: -ms-linear-gradient(top, #C0392B, #E74C3C);background: -webkit-linear-gradient(top, #C0392B, #E74C3C);
+background: -khtml-linear-gradient(top, #C0392B, #E74C3C);background: linear-gradient(top, #C0392B, #E74C3C)}
+
+a.button-lightgray {background-color: #BDC3C7;background: -moz-linear-gradient(top, #ECF0F1, #BDC3C7);background: -ms-linear-gradient(top, #ECF0F1, #BDC3C7);background: -webkit-linear-gradient(top, #ECF0F1, #BDC3C7);background: -khtml-linear-gradient(top, #ECF0F1, #BDC3C7);background: linear-gradient(top, #ECF0F1, #BDC3C7);border: 1px solid #BDC3C7;text-shadow: 0 -1px -1px #BDC3C7}
+a.button-lightgray:hover {background: -moz-linear-gradient(top, #BDC3C7, #ECF0F1);background: -ms-linear-gradient(top, #BDC3C7, #ECF0F1);background: -webkit-linear-gradient(top, #BDC3C7, #ECF0F1);
+background: -khtml-linear-gradient(top, #BDC3C7, #ECF0F1);background: linear-gradient(top, #BDC3C7, #ECF0F1)}
+
+a.button-dull {background-color: #7F8C8D;background: -moz-linear-gradient(top, #95A5A6, #7F8C8D);background: -ms-linear-gradient(top, #95A5A6, #7F8C8D);background: -webkit-linear-gradient(top, #95A5A6, #7F8C8D);background: -khtml-linear-gradient(top, #95A5A6, #7F8C8D);background: linear-gradient(top, #95A5A6, #7F8C8D);border: 1px solid #7F8C8D;text-shadow: 0 -1px -1px #7F8C8D}
+a.button-dull:hover {background: -moz-linear-gradient(top, #7F8C8D, #95A5A6);background: -ms-linear-gradient(top, #7F8C8D, #95A5A6);background: -webkit-linear-gradient(top, #7F8C8D, #95A5A6);
+background: -khtml-linear-gradient(top, #7F8C8D, #95A5A6);background: linear-gradient(top, #7F8C8D, #95A5A6)}
+
+a.button-fancypurple {background-color: #6666CC;background: -moz-linear-gradient(top, #9999FF, #6666CC);background: -ms-linear-gradient(top, #9999FF, #6666CC);background: -webkit-linear-gradient(top, #9999FF, #6666CC);background: -khtml-linear-gradient(top, #9999FF, #6666CC);background: linear-gradient(top, #9999FF, #6666CC);border: 1px solid #6666CC;text-shadow: 0 -1px -1px #6666CC}
+a.button-fancypurple:hover {background: -moz-linear-gradient(top, #6666CC, #9999FF);background: -ms-linear-gradient(top, #6666CC, #9999FF);background: -webkit-linear-gradient(top, #6666CC, #9999FF);background: -khtml-linear-gradient(top, #6666CC, #9999FF);background: linear-gradient(top, #6666CC, #9999FF)}
+
+a.button-dullpurple {background-color: #666699;background: -moz-linear-gradient(top, #9999CC, #666699);background: -ms-linear-gradient(top, #9999CC, #666699);background: -webkit-linear-gradient(top, #9999CC, #666699);background: -khtml-linear-gradient(top, #9999CC, #666699);background: linear-gradient(top, #9999CC, #666699);border: 1px solid #666699;text-shadow: 0 -1px -1px #666699}
+a.button-dullpurple:hover {background: -moz-linear-gradient(top, #666699, #9999CC);background: -ms-linear-gradient(top, #666699, #9999CC);background: -webkit-linear-gradient(top, #666699, #9999CC);background: -khtml-linear-gradient(top, #666699, #9999CC);background: linear-gradient(top, #666699, #9999CC)}
+
+a.button-crispblue {background-color: #0066CC;background: -moz-linear-gradient(top, #0083D7, #0066CC);background: -ms-linear-gradient(top, #0083D7, #0066CC);background: -webkit-linear-gradient(top, #0083D7, #0066CC);background: -khtml-linear-gradient(top, #0083D7, #0066CC);background: linear-gradient(top, #0083D7, #0066CC);border: 1px solid #0066CC;text-shadow: 0 -1px -1px #0066CC}
+a.button-crispblue:hover {background: -moz-linear-gradient(top, #0066CC, #0083D7);background: -ms-linear-gradient(top, #0066CC, #0083D7);background: -webkit-linear-gradient(top, #0066CC, #0083D7);
+background: -khtml-linear-gradient(top, #0066CC, #0083D7);background: linear-gradient(top, #0066CC, #0083D7)}
+
+a.button-braised {background-color: #CC9900;background: -moz-linear-gradient(top, #FFCC00, #CC9900);background: -ms-linear-gradient(top, #FFCC00, #CC9900);background: -webkit-linear-gradient(top, #FFCC00, #CC9900);background: -khtml-linear-gradient(top, #FFCC00, #CC9900);background: linear-gradient(top, #FFCC00, #CC9900);border: 1px solid #CC9900;text-shadow: 0 -1px -1px #CC9900}
+a.button-braised:hover {background: -moz-linear-gradient(top, #CC9900, #FFCC00);background: -ms-linear-gradient(top, #CC9900, #FFCC00);background: -webkit-linear-gradient(top, #CC9900, #FFCC00);
+background: -khtml-linear-gradient(top, #CC9900, #FFCC00);background: linear-gradient(top, #CC9900, #FFCC00)}
+
+a.button-midnight {background-color: #000;background: -moz-linear-gradient(top, #202020, #000);background: -ms-linear-gradient(top, #202020, #000);background: -webkit-linear-gradient(top, #202020, #000);background: -khtml-linear-gradient(top, #202020, #000);background: linear-gradient(top, #202020, #000);border: 1px solid #000;text-shadow: 0 -1px -1px #202020}
+a.button-midnight:hover {background: -moz-linear-gradient(top, #000, #202020);background: -ms-linear-gradient(top, #000, #202020);background: -webkit-linear-gradient(top, #000, #202020);
+background: -khtml-linear-gradient(top, #000, #202020);background: linear-gradient(top, #000, #202020)}
+
+a.button-salmon {background-color: #CD5C5C;background: -moz-linear-gradient(top, #F08080, #CD5C5C);background: -ms-linear-gradient(top, #F08080, #CD5C5C);background: -webkit-linear-gradient(top, #F08080, #CD5C5C);background: -khtml-linear-gradient(top, #F08080, #CD5C5C);background: linear-gradient(top, #F08080, #CD5C5C);border: 1px solid #CD5C5C;text-shadow: 0 -1px -1px #CD5C5C}
+a.button-salmon:hover {background: -moz-linear-gradient(top, #CD5C5C, #F08080);background: -ms-linear-gradient(top, #CD5C5C, #F08080);background: -webkit-linear-gradient(top, #CD5C5C, #F08080);
+background: -khtml-linear-gradient(top, #CD5C5C, #F08080);background: linear-gradient(top, #CD5C5C, #F08080)}
+
+a.button-neongreen {background-color: #7CFC00;background: -moz-linear-gradient(top, #ADFF2F, #7CFC00);background: -ms-linear-gradient(top, #ADFF2F, #7CFC00);background: -webkit-linear-gradient(top, #ADFF2F, #7CFC00);background: -khtml-linear-gradient(top, #ADFF2F, #7CFC00);background: linear-gradient(top, #ADFF2F, #7CFC00);border: 1px solid #7CFC00;text-shadow: 0 -1px -1px #7CFC00}
+a.button-neongreen:hover {background: -moz-linear-gradient(top, #7CFC00, #ADFF2F);background: -ms-linear-gradient(top, #7CFC00, #ADFF2F);background: -webkit-linear-gradient(top, #7CFC00, #ADFF2F);
+background: -khtml-linear-gradient(top, #7CFC00, #ADFF2F);background: linear-gradient(top, #7CFC00, #ADFF2F)}
+
+a.button-brown {background-color: #382E1C;background: -moz-linear-gradient(top, #453823, #382E1C);background: -ms-linear-gradient(top, #453823, #382E1C);background: -webkit-linear-gradient(top, #453823, #382E1C);background: -khtml-linear-gradient(top, #453823, #382E1C);background: linear-gradient(top, #453823, #382E1C);border: 1px solid #382E1C;text-shadow: 0 -1px -1px #382E1C}
+a.button-brown:hover {background: -moz-linear-gradient(top, #382E1C, #453823);background: -ms-linear-gradient(top, #382E1C, #453823);background: -webkit-linear-gradient(top, #382E1C, #453823);background: -khtml-linear-gradient(top, #382E1C, #453823);background: linear-gradient(top, #382E1C, #453823)}

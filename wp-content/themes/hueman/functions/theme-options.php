@@ -1014,7 +1014,7 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'sidebar-padding',
 			'label'		=> 'Sidebar Width',
-			'desc'		=> 'Change sidebar content padding and width.',
+			'desc'		=> 'Change sidebar content padding and width',
 			'type'		=> 'radio',
 			'std'		=> '30',
 			'section'	=> 'styling',
@@ -1033,7 +1033,6 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'color-1',
 			'label'		=> 'Primary Color',
-			'desc'		=> '<i>Default: #3b8dbd</i>',
 			'std'		=> '#3b8dbd',
 			'type'		=> 'colorpicker',
 			'section'	=> 'styling',
@@ -1043,7 +1042,6 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'color-2',
 			'label'		=> 'Secondary Color',
-			'desc'		=> '<i>Default: #82b965</i>',
 			'std'		=> '#82b965',
 			'type'		=> 'colorpicker',
 			'section'	=> 'styling',
@@ -1053,7 +1051,6 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'color-topbar',
 			'label'		=> 'Topbar Background',
-			'desc'		=> '<i>Default: #26272b</i>',
 			'std'		=> '#26272b',
 			'type'		=> 'colorpicker',
 			'section'	=> 'styling',
@@ -1063,7 +1060,6 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'color-header',
 			'label'		=> 'Header Background',
-			'desc'		=> '<i>Default: #33363b</i>',
 			'std'		=> '#33363b',
 			'type'		=> 'colorpicker',
 			'section'	=> 'styling',
@@ -1073,7 +1069,6 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'color-footer',
 			'label'		=> 'Footer Background',
-			'desc'		=> '<i>Default: #33363b</i>',
 			'std'		=> '#33363b',
 			'type'		=> 'colorpicker',
 			'section'	=> 'styling',
@@ -1103,7 +1098,6 @@ function custom_theme_options() {
 		array(
 			'id'		=> 'body-background',
 			'label'		=> 'Body Background',
-			'desc'		=> '<i>Default: #eaeaea</i>',
 			'std'		=> '#eaeaea',
 			'type'		=> 'colorpicker',
 			'section'	=> 'styling'
