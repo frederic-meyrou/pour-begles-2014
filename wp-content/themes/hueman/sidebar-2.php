@@ -8,7 +8,7 @@
 		
 		<div class="sidebar-top group">
 			<p><?php _e('RESEAUX','hueman'); ?></p>
-				<?php alx_social_links() ; ?>			
+				<?php alx_social_links() ; ?>	
 		</div>
 		
 		<?php if ( ot_get_option( 'post-nav' ) == 's2') { get_template_part('inc/post-nav'); } ?>
